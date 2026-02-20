@@ -1,4 +1,4 @@
 ## Hi, i'm Maike Ferreira :grin:
 
-- 🌱 I’m currently learning C and Algorithm Structures
+- 🌱 I’m currently learning C, Java and Algorithm Structures
 
